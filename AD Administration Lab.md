@@ -1,7 +1,7 @@
 
 Created a function to create the users as well as set the following attributes
 
-![[Screenshot 2025-09-11 at 8.03.21 PM.png]]
+![image alt[Screenshot 2025-09-11 at 8.03.21 PM.png]]
 
 Moved the users to the correct OU (Corp > Employees > HQ-NYC > IT)
 
